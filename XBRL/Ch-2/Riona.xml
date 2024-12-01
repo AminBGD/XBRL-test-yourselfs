@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Filename: MyUSAJourneyStatus.xml Author: Md Ruhul Amin -->
+<MyUSAJourneyStatus>
+    <Study>
+        <MSAccounting>2nd Master's</MSAccounting>
+        <Institution>University of Texas at Arlington</Institution>
+        <FavoriteSubject>Financial Accounting</FavoriteSubject>
+        <LeastFavoriteSubject>Accounting Analytics</LeastFavoriteSubject>
+    </Study>
+    <GreenCardPath>
+        <Category>EB2-NIW</Category>
+        <Status>I-140 Approved</Status>
+        <Pending>I-485 Application</Pending>
+        <ExperienceSoFar>Mixed: we are struggling, kids are enjoying</ExperienceSoFar>
+    </GreenCardPath>
+</MyUSAJourneyStatus>

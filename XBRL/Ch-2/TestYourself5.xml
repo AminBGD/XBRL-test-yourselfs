@@ -1,0 +1,12 @@
+<xbrl xmlns:us-gaap="http://xbrl.fasb.org/us-gaap/2024" xmlns:xLink="http://www.w3c.org/1999/xlink">
+    
+    <scemaRef xLink:type="simple" xLink:href="http://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd"></scemaRef>
+    <context id="AsOfDec312023">
+        <entity>
+            <identifier sceme="http://www.sec.gov/CIK">0000012345</identifier> <!--This is the SEC CIK-->
+        </entity>
+        <period>
+            <instant>2023-12-31</instant>
+        </period>
+    </context>
+</xbrl>

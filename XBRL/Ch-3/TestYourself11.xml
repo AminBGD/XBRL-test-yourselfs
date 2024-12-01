@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File name: XBRLShell2024.xml   Author: Skip White -->
+<xbrli:xbrl 
+    xmlns:xbrli="http://www.xbrl.org/2003/instance"  xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:us-gaap="http://xbrl.fasb.org/us-gaap/2024"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:iso4217="http://www.xbrl.org/2003/iso4217">
+
+    <link:schemaRef xlink:type="simple" xlink:href="http://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd"/>
+
+    <!--Context Section-->
+    <xbrli:context id="AsOfDec312024">
+        <xbrli:entity>
+        <xbrli:identifier scheme="http://sec.gov/CIK">0000012345</xbrli:identifier>
+        </xbrli:entity>
+        <xbrli:period>
+        <xbrli:startDate>2024-01-01</xbrli:startDate>
+        <xbrli:endtDate>2024-12-31</xbrli:endtDate>
+        </xbrli:period>
+    </xbrli:context>
+   <!--Unit Section-->
+    <xbrli:unit id="USD">
+    <measure>iso4217:USD</measure>
+    </xbrli:unit>
+
+    <!-- Insert the XBRL items (facts) below -->
+    <us-gaap:AccountsPayableCurrent contextRef="AsOfDec312024"
+    unitRef="USD" decimals="-3">169000</us-gaap:AccountsPayableCurrent>
+    
+</xbrli:xbrl>
+

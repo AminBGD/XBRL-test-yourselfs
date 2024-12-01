@@ -1,0 +1,9 @@
+<xbrli:context id="ForYearEndedDec312024">
+    <xbrli:entity>
+        <xbrli:identifier scheme="http://sec.gov/CIK">0000012345</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+        <xbrli:startDate>2024-01-01</xbrli:startDate>
+        <xbrli:endDate>2024-12-31</xbrli:endDate>
+    </xbrli:period>
+</xbrli:context>

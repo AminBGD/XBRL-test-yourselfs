@@ -1,0 +1,5 @@
+<xbrl xmlns:us-gaap="http://xbrl.fasb.org/us-gaap/2024" xmlns:xLink="http://www.w3c.org/1999/xlink">
+    <scemaRef xLink:type="simple" xLink:href="http://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd"/>
+    <us-gaap:ReceivablesNetCurrent contextRef="AsOfDec312023"
+    unitRef="USD" decimals="-3">111000</us-gaap:ReceivablesNetCurrent>
+</xbrl>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Filename: MyFriendsAndAssociates.xml Author: Wafiq -->
+<FriedndsAndAssociates>
+	<Associate>
+	
+		<Name class="title">
+			Skip White
+		</Name>
+
+		<Association>University of Texas at Arlington</Association>
+		<FavoriteSport>Footbal</FavoriteSport>
+		<LeastFavoriteSport>High Jump</LeastFavoriteSport>
+	</Associate>
+	<Friend>
+		<Name>Sangeeta</Name>
+		<HomeTown>Bogura</HomeTown>
+		<FavoriteSport>Badminton</FavoriteSport>
+		<LeastFavoriteSport>Cricket</LeastFavoriteSport>
+	</Friend>
+</FriedndsAndAssociates>

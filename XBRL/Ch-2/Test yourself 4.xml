@@ -1,0 +1,19 @@
+<!-- Filename: CashAndMarketableSecurities.xml Author: Md Ruhul Amin -->
+<CashAndMarketableSecurities>
+	<!-- Standard Label: Cash and Cash Equivalents, at Carrying Value
+	Data Type: xbrli: monetaryItemType
+	Period Type: instant
+	Balance: debit
+	Abstract element in which it is nested:Cash and Cash Equivalents at Carrying Value [Abstract]
+	Use this element name to tag the value $111,000: <CashAndCashEquivalentsAtCarryingValue unitref=”USD”>111000</CashAndCashEquivalentsAtCarryingValue>
+	-->
+	 <CashAndCashEquivalentsAtCarryingValue unitref="USD">111000</CashAndCashEquivalentsAtCarryingValue>
+	 <!-- Standard Label: Marketable Securities, Current
+	 Data Type: xbrli: monetaryItemType
+	 Period Type: instant
+	 Balance: debit
+	 Abstract element in which it is nested: Debt Securities, Current [Abstract]
+	 Use this element name to tag the value $72,000: <MarketableSecuritiesCurrent unitref=”USD”>72000</MarketableSecuritiesCurrent>
+	 -->
+	 <MarketableSecuritiesCurrent unitref="USD">72000</MarketableSecuritiesCurrent>
+</CashAndMarketableSecurities>

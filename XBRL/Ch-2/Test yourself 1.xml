@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- Filename: MyFriendsAndAssociates.xml Author: Md Ruhul Amin -->
+
+<MyFriendsAndAssociates>
+	<Associate>
+		<Name>Skip White</Name>
+		<Association>University of Delaware</Association>
+		<FavoriteSport>bicycling</FavoriteSport>
+		<LeastFavoriteSport>basketball</LeastFavoriteSport>
+	</Associate>
+	<Friend>
+	<Name>Mehroosh Riona</Name>
+	<Hometown>Delaware</Hometown>
+	<FavoriteSport>bicycling</FavoriteSport>
+	<LeastFavoriteSport>cricket</LeastFavoriteSport>
+	</Friend>
+</MyFriendsAndAssociates>
